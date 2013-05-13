@@ -15,3 +15,7 @@ profiles of meteorological parameters.
 -  Provides simple GUI for interacting with data.
 -  It can operate in batch mode
 
+
+## GUI Features ##
+
+Program uses Tcl/tk widget library to build 
