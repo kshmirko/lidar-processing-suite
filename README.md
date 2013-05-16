@@ -19,3 +19,4 @@ profiles of meteorological parameters.
 ## GUI Features ##
 
 Program uses Tcl/tk widget library to build 
+Each program is a separate command line tool.
